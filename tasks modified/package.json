@@ -1,0 +1,9 @@
+{
+  "name": "education-microservices",
+  "version": "1.0.0",
+  "description": "Microservices project",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  }
+}

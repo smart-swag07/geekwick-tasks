@@ -1,0 +1,11 @@
+{
+  "name": "education-microservices",
+  "version": "1.0.0",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
